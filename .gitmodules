@@ -1,0 +1,3 @@
+[submodule "deps/swlib"]
+	path = deps/swlib
+	url = https://github.com/lvdejesus/swlib
